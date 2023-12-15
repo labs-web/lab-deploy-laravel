@@ -5,7 +5,8 @@ lab-deploy-laravel
 
 Test l'hébergement de lab-crud dans les plate-formes suivant 
 
-- https://www.kamatera.com/
+- vercel.com
+- https://googiehost.com/fr/h%C3%A9bergement-gratuit.html
 - https://www.000webhost.com/
 
 
