@@ -1,6 +1,6 @@
 # Travail a faire
 
-Deploye prototype au server 000webhost
+Deploye crud-basic au server 000webhost
 
 ## Reference
 
