@@ -1,6 +1,6 @@
 # Travail a faire
 
-Deploye cnmh au server 000webhost
+Deploye prototype au server 000webhost
 
 ## Reference
 
