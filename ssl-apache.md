@@ -4,6 +4,11 @@
 
 Déploiement page web au server local apache avec ssl https
 
+## Critére de validation
+
+- Use apache server
+- Install ssl au server apache
+
 ## Commande
 
 ```bash
