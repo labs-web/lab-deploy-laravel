@@ -70,3 +70,11 @@ openssl rsa -in mysite.pem -out mysite.key
 ServerName 192.168.2.25:443
 
 ```
+
+## Solution 
+
+[Page web](https://192.168.2.25/)
+
+## Réference
+
+[How to configure https and SSL certificate in apache server](https://www.youtube.com/watch?v=7KHEmFJv4VE)
