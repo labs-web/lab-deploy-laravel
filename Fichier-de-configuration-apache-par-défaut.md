@@ -540,3 +540,7 @@ SSLRandomSeed connect builtin
 
 
 ```
+
+## Référence
+
+- [how-to-install-apache-on-windows](https://www.sitepoint.com/how-to-install-apache-on-windows/)
