@@ -14,3 +14,7 @@ PHPIniDir "C:/php"
 LoadModule php_module "C:/phpApache/php8apache2_4.dll"
 AddType application/x-httpd-php .php
 ```
+
+## Référence
+
+- [configure php as an apache module](https://www.sitepoint.com/how-to-install-php-on-windows/#step5configurephpasanapachemodule)
