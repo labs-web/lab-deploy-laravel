@@ -11,8 +11,17 @@
 
 ## Critère de validation
 
-- Installation de Apache comme serveur
-- Déploiement du prototype
+1. Déploiement de lab-laravel-crud-basic sans VirtuelHost
+   - Fichier de configuration apache par défaut
+   - Fichier de configuration apache
+   - Référence
+2. Déploiement de lab-laravel-crud-standard dans le même serveur 
+   - Fichier de configuration apache
+   - Référence
+3. Installation de HTTPS sur lab-laravel-crud-basic
+   - Commandes
+   - Référence
+
 
 ## Commandes 
 
@@ -37,3 +46,5 @@ httpd -k install
 ## Références 
 - https://www.sitepoint.com/how-to-install-apache-on-windows/
 - https://www.sitepoint.com/how-to-install-php-on-windows/#step5configurephpasanapachemodule
+- https://www.youtube.com/watch?v=cBa87N_BZ4s&ab_channel=BoostMyTool
+- https://www.youtube.com/watch?v=7KHEmFJv4VE&ab_channel=tutortechie
