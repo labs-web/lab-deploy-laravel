@@ -3,11 +3,8 @@
 ## Travail a faire
 
 - Installation de Apache comme service Windows
-- Installation de PHP
-- Configuration de PHP comme module Apache
-- Install https
-  - OpenSSL 
-
+- Installation et configuration de PHP comme module apache
+- Activation de HTTPS avec OpenSSL
 
 ## Critère de validation
 

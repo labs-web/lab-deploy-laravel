@@ -1,6 +1,7 @@
-# Installation Https 
+# Installation Https avec opens ssl
 
 ## Travail à faire 
+
 Installation de HTTPs avec openssl
 
 ## Téléchargement de openssl
@@ -40,13 +41,18 @@ RewriteCond %{HTTPS} off
 RewriteRule ^ https://%{SERVER_NAME}%{REQUEST_URI} [END,NE,R=permanent]
 ```
 
-
 4.configuration d'apache : httpd-ssl.conf
 
 
 ```conf
 ServerName localhost:443
 ```
+
+## Résolution de problème de certificat non valide 
+
+
+
+
 
 
 ## Références 
