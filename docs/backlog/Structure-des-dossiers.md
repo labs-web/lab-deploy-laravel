@@ -7,14 +7,13 @@ order: 2
 ## structure des dossiers
 - DOCS
   - Index.md
-  - Introduc
-  - Conclusiontion
+  - Introduction
     - images
     - Introduction.md
   - Conclusion
-    - Images
+    - images
     - Conclusion.md
-    - Backlog
-      - structure de dossier
-  -  rapport.md
-  -  présentation.html
+  - Backlog
+    - Structure_de_dossier
+  -  Rapport.md
+  -  Présentation.html
