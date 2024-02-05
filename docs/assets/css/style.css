@@ -21,14 +21,17 @@ img+p {
 
 h1 {
   font-size: 40px;
+  text-transform: capitalize;
 }
 
 h2 {
   font-size: 1.5em;
+  text-transform: capitalize;
 }
 
 h3 {
   font-size: 1.17em;
+  text-transform: capitalize;
 }
 
 

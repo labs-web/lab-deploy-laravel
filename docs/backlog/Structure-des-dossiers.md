@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction
+title: structure des dossiers
 order: 2
 ---
 <!--  -->
@@ -16,4 +16,4 @@ order: 2
     - Backlog
       - structure de dossier
   -  rapport.md
-  -  présentation.md
+  -  présentation.html
