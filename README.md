@@ -1,10 +1,20 @@
-# lab-deploy-laravel
+# lab deploy laravel 
 
-## Travail à faire 
+- Référence :  
+lab-deploy-laravel
 
-- backlog
-- [Déploiement dans 000webhost](deploy-000webhost.md)
-- [Installation d'un serveur Web Apache/PHP/MySQL](deploy-apache.md)
+## Backlog 
+Le backlog est une liste ordonées des tâches 
 
-
-
+- **chapitre** 
+- **exposé** 
+- **feature** 
+  - [Backlog](./backlog/feature/1.backlog.md)
+  - [Préparer le projet](./backlog/feature/2.Préparer-le-projet.md)
+  - [Installation apache](./backlog/feature/3.Installation-apache.md)
+  - [Déploiement projet](./backlog/feature/4.Déploiement-projet.md)
+  - [Introduction](./backlog/feature/2.Introduction.md)
+  - [Conclusion](./backlog/feature/6.Conclusion.md)
+- **sous-tâche** 
+  - [Rapport](./backlog/sous-tâche/Présentation.md)
+  - [Présentation](./backlog/sous-tâche/Rapport.md)
