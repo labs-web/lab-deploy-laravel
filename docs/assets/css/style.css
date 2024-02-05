@@ -56,7 +56,7 @@ article[size="A4"] {
 
   img {
     width: 85%;
-    text-align: end;
+    text-align: center !important;
 
   }
 
