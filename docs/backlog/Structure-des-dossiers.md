@@ -7,7 +7,8 @@ order: 2
 ## structure des dossiers
 - DOCS
   - Index.md
-  - IntroducConclusiontion
+  - Introduc
+  - Conclusiontion
     - images
     - Introduction.md
   - Conclusion
