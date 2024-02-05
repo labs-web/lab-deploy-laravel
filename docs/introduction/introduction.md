@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Introduction
-slug: /1.Introduction
 order: 1
 ---
 <!--  -->

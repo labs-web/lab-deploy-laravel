@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Conclusion
-slug: /2.Conclusion
 order: 3
 ---
 <!--  -->
 
 ## Conclusion 
+
+
