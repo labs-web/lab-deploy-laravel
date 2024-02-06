@@ -18,3 +18,10 @@ Le backlog est une liste ordonées des tâches
 - **sous-tâche** 
   - [Rapport](./backlog/sous-tâche/Présentation.md)
   - [Présentation](./backlog/sous-tâche/Rapport.md)
+
+
+## Rapport 
+[Rapport](http://127.0.0.1:4000/lab-deploy-laravel/Rapport)
+
+## Présentation 
+[Présentation]()
