@@ -1,6 +1,6 @@
 ---
 layout: default
-title: instalation apach
+title: Instalation apach
 order: 3
 ---
 ## instalation apach 
