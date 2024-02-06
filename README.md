@@ -8,6 +8,8 @@ Le backlog est une liste ordonées des tâches
 
 - **chapitre** 
 - **exposé** 
+- Sous-domaine: Exposé DNS
+- Exposé URL
 - **feature** 
   - [Backlog](./backlog/feature/1.backlog.md)
   - [Introduction](./backlog/feature/2.Introduction.md)
