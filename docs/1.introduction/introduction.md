@@ -7,5 +7,5 @@ order: 1
 ![deployment](/lab-deploy-laravel/1.introduction/images/deployment.png)
 
 <!-- note -->
-Maintenant que nous avons terminé notre projet `lab laravel crud standard`, nous sommes prêts à passer à la phase suivante. La prochaine étape deployment le projet sur un hébergement gratuit
+Maintenant que nous avons terminé notre projet lab laravel crud standard, nous sommes prêts à passer à la phase suivante. La prochaine étape deployment le projet sur un hébergement gratuit
 <!-- new slide -->
