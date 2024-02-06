@@ -21,7 +21,7 @@ Le backlog est une liste ordonées des tâches
 
 
 ## Rapport 
-[Rapport](http://127.0.0.1:4000/lab-deploy-laravel/Rapport)
+[Rapport](https://labs-web.github.io/lab-deploy-laravel/Rapport)
 
 ## Présentation 
 [Présentation]()
