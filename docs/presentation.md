@@ -11,4 +11,3 @@ order: 1
     {{- chapitre.content -}}
   {% endif %}
 {% endfor %}
- 

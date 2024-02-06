@@ -8,4 +8,4 @@ slug: /index
 [Rapport](https://labs-web.github.io/lab-deploy-laravel/Rapport)
 
 ## Présentation 
-[Présentation]()
+[Présentation](https://labs-web.github.io/lab-deploy-laravel/presentation)

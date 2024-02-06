@@ -3,10 +3,11 @@ layout: default
 title: Backlog
 order: 2
 ---
-<!-- new slide -->
 ## Backlog
 ### structure des dossiers
-<!-- new detail-->
+![structure des dossiers](/lab-deploy-laravel/2.backlog/images/Structure-des-dossiers.jpg)
+
+<!-- note -->
 - DOCS
   - Index.md
   - Introduction
@@ -19,3 +20,4 @@ order: 2
     - Structure_de_dossier
   -  Rapport.md
   -  Présentation.html
+<!-- new slide -->
