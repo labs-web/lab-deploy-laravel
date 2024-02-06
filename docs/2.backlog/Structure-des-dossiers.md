@@ -3,9 +3,10 @@ layout: default
 title: Backlog
 order: 2
 ---
-<!--  -->
+<!-- new slide -->
 ## Backlog
 ### structure des dossiers
+<!-- new detail-->
 - DOCS
   - Index.md
   - Introduction
@@ -18,7 +19,3 @@ order: 2
     - Structure_de_dossier
   -  Rapport.md
   -  Présentation.html
-  - Installation_apache
-    - Compte_rendu_Instalation_apach.md
-    - Instalation_apach.md
-    - Images

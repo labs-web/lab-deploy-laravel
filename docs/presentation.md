@@ -1,8 +1,8 @@
 ---
-layout: default
-slug: /index
+layout: presentation
 order: 1
 ---
+
 
 {% assign chapitres = site.pages | sort: "order" %}
 
@@ -11,3 +11,4 @@ order: 1
     {{- chapitre.content -}}
   {% endif %}
 {% endfor %}
+ 
