@@ -1,8 +1,9 @@
-# Présentation lab-deploy-laravel
+# Init-presentation 
 
-## Travail à faire 
-Utiliser GitHub pages pour réaliser présentation de besoin.
-
-## L'architecture de solution 
-- github/cnmh/lab-deploy-laravel/docs
-  - Fichier Markdown (Présentation.html)
+## Travail à faire
+- Création d'une présentation sans contenu, mais avec les titres des diapositives 
+- 
+## Livrable
+- docs/_layouts/présentation.html
+- docs/présentation.md
+- docs/index.md 

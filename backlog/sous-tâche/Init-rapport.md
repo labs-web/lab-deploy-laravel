@@ -1,8 +1,8 @@
-# Présentation lab-deploy-laravel
+# Init rapport
 
-## Travail à faire 
-Utiliser GitHub pages pour réaliser présentation de besoin.
-
-## L'architecture de solution 
-- github/cnmh/lab-deploy-laravel/docs
-  - Fichier Markdown (Rapport.md)
+## Travail à faire
+- Élaboration d'un rapport sans contenu avec les pages et leurs titres
+  
+## Livrable
+- docs/rapport.md
+- docs/index.md
