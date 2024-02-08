@@ -2,8 +2,8 @@
 
 ## Travail à faire
 - Création d'une présentation sans contenu, mais avec les titres des diapositives 
-- 
+
 ## Livrable
 - docs/_layouts/présentation.html
 - docs/présentation.md
-- docs/index.md 
+- docs/index.md
