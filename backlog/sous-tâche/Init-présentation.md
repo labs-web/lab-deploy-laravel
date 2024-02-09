@@ -1,9 +1,10 @@
-# Init-presentation 
+# Init Présentation
 
 ## Travail à faire
-- Création d'une présentation sans contenu, mais avec les titres des diapositives 
-- 
+- Élaboration d'un Presentation sans contenu avec les pages et leurs titres
+- ajouter le lien du Presentation dans README.md et README.json
+
 ## Livrable
-- docs/_layouts/présentation.html
-- docs/présentation.md
-- docs/index.md 
+- docs/*
+- README.md
+- README.json
