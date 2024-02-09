@@ -1,2 +1,4 @@
 # lab deploy laravel 
-## Travail à faire 
+
+## Livrable
+[Rapport](https://labs-web.github.io/lab-deploy-laravel/Rapport)

@@ -8,6 +8,6 @@ order: 1
 
 {% for chapitre in chapitres %}
   {% if chapitre.title %}
-    {{- chapitre.content |markdownify -}}
+    {{- chapitre.content | markdownify -}}
   {% endif %}
 {% endfor %}
