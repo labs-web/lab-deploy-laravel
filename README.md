@@ -1,2 +1,7 @@
 # lab deploy laravel 
-## Travail à faire 
+## Livrable
+### Rapport
+[Rapport](https://labs-web.github.io/lab-deploy-laravel/Rapport)
+
+### Presentation
+[presentation](https://labs-web.github.io/lab-deploy-laravel/presentation)
