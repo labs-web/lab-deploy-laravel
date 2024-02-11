@@ -3,11 +3,18 @@ layout: presentation
 order: 1
 ---
 
+{% assign pages = site.pages | sort: "order" %}
+{% for page in pages %}
+{% if page.url != "/feed.xml" 
+and page.url != "/assets/css/style.css" 
+and  page.url != "/"  
+and page.url != "/presentation.html" %}
 
-{% assign chapitres = site.pages | sort: "order" %}
+<!-- page.content | markdownify -->
+{{page.content }}
 
-{% for chapitre in chapitres %}
-  {% if chapitre.title %}
-    {{- chapitre.content -}}
-  {% endif %}
+{% endif %}
 {% endfor %}
+
+ 
+ 

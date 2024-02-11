@@ -1,11 +1,22 @@
 ---
 layout: default
-slug: /index
+order: 1
 ---
-<!--  -->   
 
-## Rapport 
-[Rapport](https://labs-web.github.io/lab-deploy-laravel/Rapport)
+{% assign pages = site.pages | sort: "order" %}
+{% for page in pages %}
+{% if page.url != "/feed.xml" 
+and page.url != "/assets/css/style.css" 
+and  page.url != "/"  
+and page.url != "/presentation.html" %}
 
-## Présentation 
-[Présentation](https://labs-web.github.io/lab-deploy-laravel/presentation)
+<!-- page.content | markdownify -->
+{{page.content }}
+
+{% endif %}
+{% endfor %}
+
+
+
+ 
+ 
