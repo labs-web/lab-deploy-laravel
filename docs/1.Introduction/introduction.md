@@ -5,6 +5,6 @@ order: 1
 ---
 
 # Introduction
-!['introduction'](/lab-poo/1.Introduction/images/introduction.PNG)
+!['introduction'](/lab-deploy-laravel/1.Introduction/images/introduction.PNG)
 
 <!-- new slide -->
