@@ -1,9 +1,29 @@
-# lab-deploy-laravel
+#  
 
-## Travail à faire 
+- Référence :   
 
-- [Déploiement dans 000webhost](deploy-000webhost.md)
-- [Installation d'un serveur Web Apache/PHP/MySQL](deploy-apache.md)
+ 
 
+## Backlog 
 
+Le backlog est une liste ordonées des tâches 
+
+- **chapitre** 
+- **exposé** 
+- **feature** 
+- **sous-tâche** 
+- **thème** 
+## Livrables 
+
+ 
+
+- /Backlog 
+  - Backlog 
+- /docs 
+  - Documentation 
+## Références 
+
+ 
+
+- [Autoformation](#) 
 
