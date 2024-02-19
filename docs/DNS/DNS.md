@@ -1,6 +1,6 @@
 ---
 layout: default
-chapitre: Introduction
+chapitre: DNS
 order: 3
 ---
 ## DNS
